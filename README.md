@@ -1,8 +1,9 @@
-# OpenProject
-[<img src="https://travis-ci.org/opf/openproject.svg?branch=dev" alt="Build Status" />](https://travis-ci.org/opf/openproject)
-[![Code Climate](https://codeclimate.com/github/opf/openproject/badges/gpa.svg)](https://codeclimate.com/github/opf/openproject)
+# openH
 
-OpenProject is a web-based project management software. Its key features are:
+[<img src="https://travis-ci.org/AgilX/openH.svg?branch=master" alt="Build Status" />](https://travis-ci.org/AgilX/openH)
+[![Code Climate](https://codeclimate.com/github/AgilX/openH/badges/gpa.svg)](https://codeclimate.com/github/AgilX/openH)
+
+OpenH is a fork from OpenProject, a web-based project management software. Its key features are:
 
 * [Project planning and scheduling](https://www.openproject.org/collaboration-software-features/#project-planning)
 * [Product roadmap and release planning](https://www.openproject.org/collaboration-software-features/#product-management)
